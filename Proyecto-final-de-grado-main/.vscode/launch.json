@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "pesca_cantabria",
+            "cwd": "PescaCantabriaApp\\pesca_cantabria",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "pesca_cantabria (profile mode)",
+            "cwd": "PescaCantabriaApp\\pesca_cantabria",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "pesca_cantabria (release mode)",
+            "cwd": "PescaCantabriaApp\\pesca_cantabria",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
